@@ -1,0 +1,227 @@
+[
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "publisher": "MIT Press",
+      "year": 2009,
+      "keywords": ["algorithms", "data structures", "computer science"],
+      "isbn": "9780262033848"
+    },
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "year": 2008,
+      "keywords": ["programming", "best practices", "software engineering"],
+      "isbn": "9780132350884"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "publisher": "Addison-Wesley",
+      "year": 1999,
+      "keywords": ["programming", "software development", "coding practices"],
+      "isbn": "9780201616224"
+    },
+    {
+      "title": "Design Patterns",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "publisher": "Addison-Wesley",
+      "year": 1994,
+      "keywords": ["software design", "patterns", "object-oriented"],
+      "isbn": "9780201633610"
+    },
+    {
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "publisher": "Addison-Wesley",
+      "year": 1999,
+      "keywords": ["software engineering", "refactoring", "code improvement"],
+      "isbn": "9780201485677"
+    },
+    {
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "publisher": "CareerCup",
+      "year": 2015,
+      "keywords": ["interview prep", "algorithms", "data structures"],
+      "isbn": "9780984782857"
+    },
+    {
+      "title": "You Don't Know JS: Scope & Closures",
+      "author": "Kyle Simpson",
+      "publisher": "O'Reilly Media",
+      "year": 2014,
+      "keywords": ["JavaScript", "programming", "closures"],
+      "isbn": "9781491904152"
+    },
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "publisher": "Addison-Wesley",
+      "year": 2008,
+      "keywords": ["Java", "programming", "best practices"],
+      "isbn": "9780321356680"
+    },
+    {
+      "title": "The Art of Computer Programming, Vol. 1",
+      "author": "Donald Knuth",
+      "publisher": "Addison-Wesley",
+      "year": 1968,
+      "keywords": ["algorithms", "mathematics", "programming"],
+      "isbn": "9780201896830"
+    },
+    {
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+      "publisher": "MIT Press",
+      "year": 2016,
+      "keywords": ["machine learning", "deep learning", "AI"],
+      "isbn": "9780262035613"
+    },
+    {
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "publisher": "Pearson",
+      "year": 2010,
+      "keywords": ["AI", "machine learning", "intelligent systems"],
+      "isbn": "9780136042594"
+    },
+    {
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "publisher": "No Starch Press",
+      "year": 2015,
+      "keywords": ["Python", "programming", "beginner"],
+      "isbn": "9781593276034"
+    },
+    {
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "publisher": "O'Reilly Media",
+      "year": 2008,
+      "keywords": ["JavaScript", "programming", "best practices"],
+      "isbn": "9780596517748"
+    },
+    {
+      "title": "Computer Networking: A Top-Down Approach",
+      "author": "James F. Kurose, Keith W. Ross",
+      "publisher": "Pearson",
+      "year": 2012,
+      "keywords": ["networking", "computer science", "protocols"],
+      "isbn": "9780132856201"
+    },
+    {
+      "title": "Introduction to Machine Learning with Python",
+      "author": "Andreas C. Müller, Sarah Guido",
+      "publisher": "O'Reilly Media",
+      "year": 2016,
+      "keywords": ["machine learning", "Python", "data science"],
+      "isbn": "9781449369415"
+    },
+    {
+      "title": "Data Science for Business",
+      "author": "Foster Provost, Tom Fawcett",
+      "publisher": "O'Reilly Media",
+      "year": 2013,
+      "keywords": ["data science", "business", "analytics"],
+      "isbn": "9781449361327"
+    },
+    {
+      "title": "Programming Pearls",
+      "author": "Jon Bentley",
+      "publisher": "Addison-Wesley",
+      "year": 2000,
+      "keywords": ["programming", "algorithms", "data structures"],
+      "isbn": "9780201657882"
+    },
+    {
+      "title": "Learning Python",
+      "author": "Mark Lutz",
+      "publisher": "O'Reilly Media",
+      "year": 2013,
+      "keywords": ["Python", "programming", "reference"],
+      "isbn": "9781449355739"
+    },
+    {
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "publisher": "Cengage Learning",
+      "year": 2005,
+      "keywords": ["theory", "computation", "Turing machines"],
+      "isbn": "9780534950972"
+    },
+    {
+      "title": "Algorithms",
+      "author": "Robert Sedgewick, Kevin Wayne",
+      "publisher": "Addison-Wesley",
+      "year": 2011,
+      "keywords": ["algorithms", "data structures", "computer science"],
+      "isbn": "9780321573513"
+    },
+    {
+      "title": "Database System Concepts",
+      "author": "Abraham Silberschatz, Henry Korth, S. Sudarshan",
+      "publisher": "McGraw-Hill",
+      "year": 2010,
+      "keywords": ["databases", "systems", "design"],
+      "isbn": "9780073523323"
+    },
+    {
+      "title": "Operating System Concepts",
+      "author": "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne",
+      "publisher": "Wiley",
+      "year": 2008,
+      "keywords": ["operating systems", "concepts", "design"],
+      "isbn": "9780470128725"
+    },
+    {
+      "title": "Compilers: Principles, Techniques, and Tools",
+      "author": "Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman",
+      "publisher": "Pearson",
+      "year": 2006,
+      "keywords": ["compilers", "programming", "theory"],
+      "isbn": "9780321486813"
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "publisher": "Addison-Wesley",
+      "year": 1975,
+      "keywords": ["software engineering", "management", "projects"],
+      "isbn": "9780201835953"
+    },
+    {
+      "title": "The Clean Coder",
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "year": 2011,
+      "keywords": ["software engineering", "ethics", "best practices"],
+      "isbn": "9780137081073"
+    },
+    {
+      "title": "Artificial Intelligence: Foundations of Computational Agents",
+      "author": "David L. Poole, Alan K. Mackworth",
+      "publisher": "Cambridge University Press",
+      "year": 2010,
+      "keywords": ["AI", "foundations", "agents"],
+      "isbn": "9780521519007"
+    },
+    {
+      "title": "Reinforcement Learning: An Introduction",
+      "author": "Richard S. Sutton, Andrew G. Barto",
+      "publisher": "MIT Press",
+      "year": 1998,
+      "keywords": ["machine learning", "reinforcement", "AI"],
+      "isbn": "9780262039246"
+    },
+    {
+      "title": "Learning TensorFlow",
+      "author": "Tom Hope, Yehezkel S. Resheff, Itay Lieder",
+      "publisher": "O'Reilly Media",
+      "year": 2017,
+      "keywords": ["machine learning", "TensorFlow", "deep learning"],
+      "isbn": "9781491978511"
+    }
+  ]
+  
